@@ -9,3 +9,18 @@ Python EPUB Maker
 BSD 3-Clause License
 
 # How to Use
+* add_ptag_to_newline
+1. Run add_ptag_to_newline.exe file or run script file as **SAME DIRECTORY** (Input util .TXT extension)
+![Add1](https://github.com/DaLae37/MakeEPUB/blob/main/Images/add1.png)
+2. Check "Result/FILENAME.txt"
+![Add2](https://github.com/DaLae37/MakeEPUB/blob/main/Images/add2.png)
+3. Use changed files
+![Add3](https://github.com/DaLae37/MakeEPUB/blob/main/Images/add3.png)
+
+* covert_file_to_epub
+1. Run add_ptag_to_newline.exe file or run script file as **SAME DIRECTORY**
+![Convert1](https://github.com/DaLae37/MakeEPUB/blob/main/Images/convert1.png)
+2. Check "Result" Folder
+![Convert2](https://github.com/DaLae37/MakeEPUB/blob/main/Images/convert2.png)
+3. Use .EPUB file
+![Convert3](https://github.com/DaLae37/MakeEPUB/blob/main/Images/convert3.png)

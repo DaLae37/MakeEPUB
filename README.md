@@ -1,5 +1,7 @@
 # MakeEPUB
 Python EPUB Maker
+* Add <p> tags between newline characters in the text file
+* Convert **Imported** .EPUB directory to BOOKTITLE.EPUB file
 
 # Requirement
 * Python3 (Development Environment : Python 3.11.5)
